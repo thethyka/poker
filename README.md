@@ -1,2 +1,2 @@
 # poker
-poker smulator
+poker simulator
